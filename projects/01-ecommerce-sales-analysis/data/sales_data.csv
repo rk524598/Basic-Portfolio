@@ -1,0 +1,51 @@
+order_id,date,product,category,quantity,price,total,customer_id,region,payment_method
+1001,2024-01-05,Laptop,Electronics,1,1200,1200,C001,North,Credit Card
+1002,2024-01-06,Mouse,Electronics,2,25,50,C002,South,Debit Card
+1003,2024-01-07,Desk,Furniture,1,300,300,C003,East,Credit Card
+1004,2024-01-08,Chair,Furniture,3,150,450,C001,North,Credit Card
+1005,2024-01-09,Monitor,Electronics,1,350,350,C004,West,PayPal
+1006,2024-01-10,Keyboard,Electronics,2,80,160,C005,North,Credit Card
+1007,2024-01-11,Bookshelf,Furniture,1,250,250,C002,South,Debit Card
+1008,2024-01-12,Lamp,Furniture,2,60,120,C006,East,Credit Card
+1009,2024-01-13,Headphones,Electronics,1,150,150,C007,West,PayPal
+1010,2024-01-14,Desk Chair,Furniture,1,200,200,C008,North,Credit Card
+1011,2024-01-15,Tablet,Electronics,1,500,500,C009,South,Debit Card
+1012,2024-01-16,Monitor Stand,Electronics,2,45,90,C010,East,Credit Card
+1013,2024-01-17,Filing Cabinet,Furniture,1,400,400,C011,West,PayPal
+1014,2024-01-18,Webcam,Electronics,3,80,240,C001,North,Credit Card
+1015,2024-01-19,Shelf Unit,Furniture,1,280,280,C012,South,Debit Card
+1016,2024-01-20,Speaker,Electronics,2,120,240,C002,East,Credit Card
+1017,2024-01-21,Desk Lamp,Furniture,1,90,90,C013,West,PayPal
+1018,2024-01-22,USB Hub,Electronics,4,30,120,C014,North,Credit Card
+1019,2024-01-23,Office Cabinet,Furniture,1,550,550,C003,South,Debit Card
+1020,2024-01-24,Microphone,Electronics,1,200,200,C015,East,Credit Card
+1021,2024-02-01,Laptop,Electronics,1,1200,1200,C016,West,PayPal
+1022,2024-02-02,Mouse Pad,Electronics,5,15,75,C017,North,Credit Card
+1023,2024-02-03,Dining Table,Furniture,1,800,800,C018,South,Debit Card
+1024,2024-02-04,Office Chair,Furniture,2,220,440,C001,East,Credit Card
+1025,2024-02-05,Monitor,Electronics,1,350,350,C019,West,PayPal
+1026,2024-02-06,Desk Organizer,Furniture,3,50,150,C020,North,Credit Card
+1027,2024-02-07,Keyboard,Electronics,1,80,80,C004,South,Debit Card
+1028,2024-02-08,Bookcase,Furniture,2,200,400,C021,East,Credit Card
+1029,2024-02-09,Headphones,Electronics,2,150,300,C005,West,PayPal
+1030,2024-02-10,Standing Desk,Furniture,1,600,600,C022,North,Credit Card
+1031,2024-02-11,Graphics Tablet,Electronics,1,450,450,C023,South,Debit Card
+1032,2024-02-12,Chair Mat,Furniture,1,40,40,C006,East,Credit Card
+1033,2024-02-13,Projector,Electronics,1,800,800,C024,West,PayPal
+1034,2024-02-14,Shelf,Furniture,4,120,480,C007,North,Credit Card
+1035,2024-02-15,Router,Electronics,1,150,150,C025,South,Debit Card
+1036,2024-02-16,Desk Pad,Furniture,2,35,70,C008,East,Credit Card
+1037,2024-02-17,Monitor,Electronics,1,350,350,C009,West,PayPal
+1038,2024-02-18,Locker,Furniture,1,300,300,C026,North,Credit Card
+1039,2024-02-19,Laptop Stand,Electronics,2,70,140,C010,South,Debit Card
+1040,2024-02-20,Cabinet,Furniture,1,450,450,C027,East,Credit Card
+1041,2024-03-01,Tablet,Electronics,1,500,500,C011,West,PayPal
+1042,2024-03-02,Desk,Furniture,1,350,350,C028,North,Credit Card
+1043,2024-03-03,Speaker System,Electronics,1,600,600,C012,South,Debit Card
+1044,2024-03-04,Chair,Furniture,3,150,450,C029,East,Credit Card
+1045,2024-03-05,Monitor,Electronics,2,350,700,C001,West,PayPal
+1046,2024-03-06,File Cabinet,Furniture,1,380,380,C030,North,Credit Card
+1047,2024-03-07,Keyboard,Electronics,1,80,80,C013,South,Debit Card
+1048,2024-03-08,Shelving Unit,Furniture,2,250,500,C031,East,Credit Card
+1049,2024-03-09,Headphones,Electronics,3,150,450,C014,West,PayPal
+1050,2024-03-10,Desk Chair,Furniture,1,200,200,C002,North,Credit Card
